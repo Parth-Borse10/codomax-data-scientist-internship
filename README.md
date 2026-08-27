@@ -13,7 +13,7 @@ data science and practical implementation.
 | Module | Topic | Status |
 |---|---|---|
 | Module 1 | Internship Module 1 | Upcoming |
-| Module 2 | Data Analysis with Python | Completed |
+| Module 2 | [Data Analysis with Python](./Module-2-Data-Analysis/) | Completed |
 | Module 3 | Internship Module 3 | Upcoming |
 | Module 4 | Internship Module 4 | Upcoming |
 | Module 5 | Internship Module 5 | Upcoming |
