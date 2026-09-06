@@ -12,7 +12,7 @@ data science and practical implementation.
 
 | Module | Topic | Status |
 |---|---|---|
-| Module 1 | Internship Module 1 | Upcoming|
+| Module 1 | [Python & Data Science Fundamentals](./Module-1-Python-Data-Science-Fundamentals/) | Completed | 
 | Module 2 | [Data Analysis with Python](./Module-2-Data-Analysis/) | Completed |
 | Module 3 | [Data Visualization](./Module-3-Data-Visualization/) | Completed |
 | Module 4 | [Machine Learning Basics](./Module-4-Machine-Learning-Basics/) | Completed |
@@ -43,6 +43,10 @@ Completed work includes:
 
 ```text
 codomax-data-scientist-internship/
+│
+├── Module-1-Python-Data-Science-Fundamentals/
+│   ├── README.md
+│   └── Codomax_Module_1_Python_Data_Science_Fundamentals.ipynb
 │
 ├── Module-2-Data-Analysis/
 │   ├── README.md
