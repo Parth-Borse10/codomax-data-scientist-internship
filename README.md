@@ -1,43 +1,37 @@
 # Codomax Data Scientist Internship
 
-This repository contains the practical work completed during my
-Data Scientist Internship at Codomax.
+This repository contains the work and projects I completed during my **Codomax Data Scientist Internship**, covering Python, data analysis, visualization, machine learning, and a data science mini project.
 
-## Internship Overview
+## Internship Progress
 
-The internship consists of six modules covering different areas of
-data science and practical implementation.
+| Module | Topic | What I Worked On | Status |
+|---|---|---|---|
+| Module 1 | [Python & Data Science Fundamentals](./Module-1-Python-Data-Science-Fundamentals/) | Python basics, data structures, functions, file handling, NumPy, Pandas, and Data Science fundamentals | ✅ Completed |
+| Module 2 | [Data Analysis with Python](./Module-2-Data-Analysis/) | Data cleaning, exploration, manipulation, statistics, and insight generation using Pandas | ✅ Completed |
+| Module 3 | [Data Visualization](./Module-3-Data-Visualization/) | Sales analysis using Matplotlib and Seaborn with different charts and visual insights | ✅ Completed |
+| Module 4 | [Machine Learning Basics](./Module-4-Machine-Learning-Basics/) | Iris flower classification using Scikit-learn, KNN, prediction, and model evaluation | ✅ Completed |
+| Module 5 | [Data Science Mini Project](./Module-5-Data-Science-Mini-Project/) | Customer shopping analysis, feature engineering, segmentation, visualization, and business insights | ✅ Completed |
+| Module 6 | Internship Module 6 | Upcoming internship work | 🔲 Upcoming |
 
-## Module Progress
+## Skills & Technologies
 
-| Module | Topic | Status |
-|---|---|---|
-| Module 1 | [Python & Data Science Fundamentals](./Module-1-Python-Data-Science-Fundamentals/) | Completed | 
-| Module 2 | [Data Analysis with Python](./Module-2-Data-Analysis/) | Completed |
-| Module 3 | [Data Visualization](./Module-3-Data-Visualization/) | Completed |
-| Module 4 | [Machine Learning Basics](./Module-4-Machine-Learning-Basics/) | Completed |
-| Module 5 | [Data Science Mini Project](./Module-5-Data-Science-Mini-Project/) | Completed |
-| Module 6 | Internship Module 6 | Upcoming |
+**Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Google Colab · Data Cleaning · Exploratory Data Analysis · Data Visualization · Machine Learning**
 
-## Module 2 - Data Analysis with Python
+## Learning Progression
 
-Completed work includes:
-
-- Working with CSV datasets using Python
-- Dataset exploration using Pandas
-- Basic data cleaning
-- Checking for missing values and duplicate records
-- Numerical analysis using NumPy
-- Basic data analysis using Pandas
-
-### Tools Used
-
-- Python
-- Pandas
-- NumPy
-- Google Colab
-
-## Repository Structure
+```text
+Python Fundamentals
+        ↓
+Data Analysis
+        ↓
+Data Visualization
+        ↓
+Machine Learning
+        ↓
+Data Science Mini Project
+        ↓
+Final Project
+```
 
 ## Repository Structure
 
@@ -45,25 +39,14 @@ Completed work includes:
 codomax-data-scientist-internship/
 │
 ├── Module-1-Python-Data-Science-Fundamentals/
-│   ├── README.md
-│   └── Codomax_Module_1_Python_Data_Science_Fundamentals.ipynb
-│
 ├── Module-2-Data-Analysis/
-│   ├── README.md
-│   └── Codomax_Module_2_Data_Analysis.ipynb
-│
 ├── Module-3-Data-Visualization/
-│   ├── README.md
-│   └── Codomax_Module_3_Data_Analysis.ipynb
-│ 
 ├── Module-4-Machine-Learning-Basics/
-│   ├── README.md
-│   └── Codomax_Module_4_Machine_Learning.ipynb
-│
 ├── Module-5-Data-Science-Mini-Project/
-│   ├── README.md
-│   ├── Codomax_Module_5_Data_Science_Mini_Project.ipynb
-│   └── shopping_trends_updated.csv
-│
 └── README.md
 ```
+
+## Current Status
+
+**Modules 1–5 completed ✅**  
+**Module 6 and Final Project upcoming.**
