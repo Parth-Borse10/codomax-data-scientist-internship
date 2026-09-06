@@ -51,6 +51,10 @@ codomax-data-scientist-internship/
 ├── Module-3-Data-Visualization/
 │   ├── README.md
 │   └── Codomax_Module_3_Data_Analysis.ipynb
+│ 
+├── Module-4-Machine-Learning-Basics/
+│   ├── README.md
+│   └── Codomax_Module_4_Machine_Learning.ipynb
 │
 └── README.md
 ```
