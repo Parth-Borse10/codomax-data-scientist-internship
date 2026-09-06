@@ -48,5 +48,5 @@ codomax-data-scientist-internship/
 
 ## Current Status
 
-**Modules 1–5 completed **  
+**Modules 1–5 completed.**  
 **Module 6 and Final Project upcoming.**
