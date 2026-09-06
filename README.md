@@ -39,11 +39,14 @@ Completed work includes:
 
 ## Repository Structure
 
-```text
 codomax-data-scientist-internship/
 │
 ├── Module-2-Data-Analysis/
 │   ├── README.md
 │   └── Codomax_Module_2_Data_Analysis.ipynb
+│
+├── Module-3-Data-Visualization/
+│   ├── README.md
+│   └── Codomax_Module_3_Data_Analysis.ipynb
 │
 └── README.md
