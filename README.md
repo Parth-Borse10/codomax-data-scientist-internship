@@ -16,7 +16,7 @@ data science and practical implementation.
 | Module 2 | [Data Analysis with Python](./Module-2-Data-Analysis/) | Completed |
 | Module 3 | [Data Visualization](./Module-3-Data-Visualization/) | Completed |
 | Module 4 | [Machine Learning Basics](./Module-4-Machine-Learning-Basics/) | Completed |
-| Module 5 | Internship Module 5 | Upcoming |
+| Module 5 | [Data Science Mini Project](./Module-5-Data-Science-Mini-Project/) | Completed |
 | Module 6 | Internship Module 6 | Upcoming |
 
 ## Module 2 - Data Analysis with Python
@@ -55,6 +55,11 @@ codomax-data-scientist-internship/
 ├── Module-4-Machine-Learning-Basics/
 │   ├── README.md
 │   └── Codomax_Module_4_Machine_Learning.ipynb
+│
+├── Module-5-Data-Science-Mini-Project/
+│   ├── README.md
+│   ├── Codomax_Module_5_Data_Science_Mini_Project.ipynb
+│   └── shopping_trends_updated.csv
 │
 └── README.md
 ```
