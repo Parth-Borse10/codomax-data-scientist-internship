@@ -15,7 +15,7 @@ data science and practical implementation.
 | Module 1 | Internship Module 1 | Upcoming|
 | Module 2 | [Data Analysis with Python](./Module-2-Data-Analysis/) | Completed |
 | Module 3 | [Data Visualization](./Module-3-Data-Visualization/) | Completed |
-| Module 4 | Internship Module 4 | Upcoming |
+| Module 4 | [Machine Learning Basics](./Module-4-Machine-Learning-Basics/) | Completed |
 | Module 5 | Internship Module 5 | Upcoming |
 | Module 6 | Internship Module 6 | Upcoming |
 
